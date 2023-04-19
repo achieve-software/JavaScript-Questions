@@ -85,7 +85,14 @@
       <td>Object-questions  </td></td>
       <td><a href="https://github.com/achieve-software/Object-questions">Repo Details</td>
       <td>JavaScript-Objects  </td>
-      <td>JavaScript-Objects konusu ile ilgili soru ve cevaplar</td>
+      <td>JavaScript-Objects konusu ile ilgili soru ve cevaplara ilişkin</td>
+    </tr>
+     <tr>
+      <td>filterexample </td></td>
+      <td><a href="https://github.com/achieve-software/filterexample">Repo Details</td>
+      <td>JavaScript-Arrays-filter()  </td>
+      <td>Verilen bir string'de sesli harfleri (a, e, i, o, u) filtreleyin ve sadece sesli harfler olmayan kalan harfleri birleştirin.
+ Examples: Input: "day" Output: "d" Input: "apple" Output: "ppl" Input: "javascript" Output: "jvscrpt"</td>
     </tr>
   </tbody>
 </table>
