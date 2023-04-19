@@ -81,7 +81,24 @@
       <td>JavaScript-switch case  </td>
       <td>Switch-case yapısı ile bugünün hangi gün olduğunu yazan program</td>
     </tr>
-    <tr>
+   <tr>
+      <td>say-lar-n-toplam- </td></td>
+      <td><a href="https://github.com/achieve-software/say-lar-n-toplam-">Repo Details</td>
+      <td>for loops & ALGHORYTİM  </td>
+      <td>//1 den- kullanıcıdan aldığın n sayısına kadar sayıların toplamını göster</td>
+    </tr>
+     <tr>
+      <td>randomnumber </td></td>
+      <td><a href="https://github.com/achieve-software/randomnumber">Repo Details</td>
+      <td>for loops & ALGHORYTİM  </td>
+      <td>// 0- 100 arasında n adet rastgele sayı üreten kodu for döngüsü ile yazınız...(n sayısını kullanıcıdan alınız..)</td>
+    </tr>
+        <tr>
+      <td>Celcius-Fahrenheit </td></td>
+      <td><a href="https://github.com/achieve-software/Celcius-Fahrenheit">Repo Details</td>
+      <td>Functions & ALGHORYTİM  </td>
+      <td>// 1- Celsius değerini Fahrenheit değerine dönüştüren bir fonksiyon yazınız? (Celsius × 9/5) + 32 = Fahrenheit</td>
+    </tr>
       <td>Object-questions  </td></td>
       <td><a href="https://github.com/achieve-software/Object-questions">Repo Details</td>
       <td>JavaScript-Objects  </td>
@@ -140,6 +157,12 @@ Test Verisi: console.log(protect_email("robin_singh@example.com")); "robin...@ex
       <td>Functions-Strings & ALGHORYTİM  </td>
       <td>Belirli bir string ifadenin tersini bulan fonksiyonu yazınız?
 // console.log(reverseString('hello world')) // output: dlrow olleh</td>
+    </tr>
+    <tr>
+      <td>randomnumber </td></td>
+      <td><a href="https://github.com/achieve-software/say-lar-n-toplam-">Repo Details</td>
+      <td>for loops & ALGHORYTİM  </td>
+      <td>//1 den- kullanıcıdan aldığın n sayısına kadar sayıların toplamını göster</td>
     </tr>
   </tbody>
 </table>
