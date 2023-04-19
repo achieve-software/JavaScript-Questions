@@ -94,5 +94,11 @@
       <td>Verilen bir string'de sesli harfleri (a, e, i, o, u) filtreleyin ve sadece sesli harfler olmayan kalan harfleri birleştirin.
  Examples: Input: "day" Output: "d" Input: "apple" Output: "ppl" Input: "javascript" Output: "jvscrpt"</td>
     </tr>
+     <tr>
+      <td> arrangeNumbers</td></td>
+      <td><a href="https://github.com/achieve-software/arrangeNumbers">Repo Details</td>
+      <td>Functions-Strings   </td>
+      <td>Verilen bir tamsayıyı argüman olarak alan ve rakamları azalan sırada döndüren bir fonksiyon yazın. Özetle, rakamları yeniden düzenleyerek mümkün olan en yüksek sayıyı oluşturun. Examples: Input: 42145 Output: 54421 Input: 145263 Output: 654321 Input: 123456789 Output: 987654321</td>
+    </tr>
   </tbody>
 </table>
