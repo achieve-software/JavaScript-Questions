@@ -50,5 +50,36 @@
       <td>//Console'dan girilen bir sayinin basamak sayisini hesaplayarak console'a
 //bastiran kodu donguler yardimiyle yaziniz.</td>
     </tr>
+     <tr>
+      <td>6fiz_buz  </td></td>
+      <td><a href="https://github.com/achieve-software/6fiz_buz" target="_blank">Repo Details</td>
+      <td>JavaScript-for loops & if, else, and else if</td>
+      <td>// Soru: Sizden 1'den 100'e kadar sayıları yazdırmanız istenmektedir ancak 3'ün katlarına gelince 'Fizz',
+//5'in katlarına gelince 'Buzz'.Hem 3'ün hemde 5'in katlarına gelince 'FizzBuzz' yazdırmanız istenmektedir ?</td>
+    </tr>
+     <tr>
+      <td>5calc_sw_case </td></td>
+      <td><a href="https://github.com/achieve-software/5calc_sw_case" target="_blank">Repo Details</td>
+      <td>JavaScript-switch case </td>
+      <td>JavaScript // calculator program with switch-case...</td>
+    </tr>
+     <tr>
+      <td>4calc_if-else   </td></td>
+      <td><a href="https://github.com/achieve-software/4calc_if-else" target="_blank">Repo Details</td>
+      <td>JavaScript-if, else, and else if </td>
+      <td>JavaScript // calculator program with if-else...</td>
+    </tr>
+    <tr>
+      <td>2month_of_year  </td></td>
+      <td><a href="https://github.com/achieve-software/2month_of_year/blob/main/index.js" target="_blank">Repo Details</td>
+      <td>JavaScript-switch case  </td>
+      <td>Switch-case yapısı ile bugünün hangi mevsim olduğunu yazan program</td>
+    </tr>
+    <tr>
+      <td>1day_of_week  </td></td>
+      <td><a href="https://github.com/achieve-software/1day_of_week/blob/main/index.js" target="_blank">Repo Details</td>
+      <td>JavaScript-switch case  </td>
+      <td>Switch-case yapısı ile bugünün hangi gün olduğunu yazan program</td>
+    </tr>
   </tbody>
 </table>
