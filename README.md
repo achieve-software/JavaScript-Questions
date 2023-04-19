@@ -158,11 +158,5 @@ Test Verisi: console.log(protect_email("robin_singh@example.com")); "robin...@ex
       <td>Belirli bir string ifadenin tersini bulan fonksiyonu yazınız?
 // console.log(reverseString('hello world')) // output: dlrow olleh</td>
     </tr>
-    <tr>
-      <td>randomnumber </td></td>
-      <td><a href="https://github.com/achieve-software/say-lar-n-toplam-">Repo Details</td>
-      <td>for loops & ALGHORYTİM  </td>
-      <td>//1 den- kullanıcıdan aldığın n sayısına kadar sayıların toplamını göster</td>
-    </tr>
   </tbody>
 </table>
