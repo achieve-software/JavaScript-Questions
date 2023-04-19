@@ -100,5 +100,46 @@
       <td>Functions-Strings   </td>
       <td>Verilen bir tamsayıyı argüman olarak alan ve rakamları azalan sırada döndüren bir fonksiyon yazın. Özetle, rakamları yeniden düzenleyerek mümkün olan en yüksek sayıyı oluşturun. Examples: Input: 42145 Output: 54421 Input: 145263 Output: 654321 Input: 123456789 Output: 987654321</td>
     </tr>
+     <tr>
+      <td>arrayAverage   </td></td>
+      <td><a href="https://github.com/achieve-software/arrayAverage" target="_blank">Repo Details</td>
+      <td>JavaScript-Arrays-foreach() </td>
+      <td>Bir dizideki tüm elemanların ortalamasını hesaplayan bir JavaScript fonksiyonu yazın. Test Verisi: console.log(average([1,2,3,4,5])); 3</td>
+    </tr>
+    <tr>
+      <td>email-validate   </td></td>
+      <td><a href="https://github.com/achieve-software/email-validate">Repo Details</td>
+      <td>Functions-Strings </td>
+      <td>Yetkisiz kullanıcılardan korunmak için e-posta adreslerini gizlemek için bir JavaScript fonksiyonu yazın.
+Test Verisi: console.log(protect_email("robin_singh@example.com")); "robin...@example.com"</td>
+    </tr>
+     <tr>
+      <td>sumOfDivisors  </td></td>
+      <td><a href="https://github.com/achieve-software/sumOfDivisors" target="_blank">Repo Details</td>
+      <td>Functions-For-İf-Else & ALGHORYTİM  </td>
+      <td>Belirli bir sayının tam bölenlerinin toplamını bulan fonksiyonu yazınız?
+// console.log(sumOfDivisors(12)) // output: 28
+</td>
+    </tr>
+    <tr>
+      <td>vowels </td></td>
+      <td><a href="https://github.com/achieve-software/vowels">Repo Details</td>
+      <td>Functions-Strings</td>
+      <td>Belirli bir string ifadenin içindeki sesli harfleri bulan fonksiyonu yazınız?
+// console.log(findVowels('hello world')) // output: eoo</td>
+    </tr>
+       <tr>
+      <td>palindrome    </td></td>
+      <td><a href="https://github.com/achieve-software/palindrome">Repo Details</td>
+      <td>Functions-Strings & ALGHORYTİM</td>
+      <td>Palindrom, tersten okunuşu da aynı olan cümle, sözcük ve sayılara denilmektedir. girilen kelimenin palindrom olup olmadığını belirten programı yazınız.</td>
+    </tr>
+     <tr>
+      <td>reverseString   </td></td>
+      <td><a href="https://github.com/achieve-software/reverseString">Repo Details</td>
+      <td>Functions-Strings & ALGHORYTİM  </td>
+      <td>Belirli bir string ifadenin tersini bulan fonksiyonu yazınız?
+// console.log(reverseString('hello world')) // output: dlrow olleh</td>
+    </tr>
   </tbody>
 </table>
