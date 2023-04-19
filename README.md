@@ -81,5 +81,11 @@
       <td>JavaScript-switch case  </td>
       <td>Switch-case yapısı ile bugünün hangi gün olduğunu yazan program</td>
     </tr>
+    <tr>
+      <td>Object-questions  </td></td>
+      <td><a href="https://github.com/achieve-software/Object-questions">Repo Details</td>
+      <td>JavaScript-Objects  </td>
+      <td>JavaScript-Objects konusu ile ilgili soru ve cevaplar</td>
+    </tr>
   </tbody>
 </table>
