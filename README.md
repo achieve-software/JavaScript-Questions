@@ -184,5 +184,17 @@ Test Verisi: console.log(protect_email("robin_singh@example.com")); "robin...@ex
  tlPrices dizisindeki rakamlarin Euro ve dolar
  karsiliklarini hesaplatarak yeni dizelere kaydediniz</td>
     </tr>
+    <tr>
+      <td>map---metodu   </td></td>
+      <td><a href="https://github.com/achieve-software/map---metodu">Repo Details</td>
+      <td>JavaScript-Arrays map()</td>
+      <td>Bir dizideki tüm isimleri BÜYÜK harfe dönüştüren uygulamayı yazınız.</td>
+    </tr>
+    <tr>
+      <td>forEach--  </td></td>
+      <td><a href="https://github.com/achieve-software/forEach--">Repo Details</td>
+      <td>JavaScript-Arrays forEach() </td>
+      <td>1-Dizideki herbir fiyati konsola bastiriniz. 2- prices dizisindekilerin toplamini konsola yazdiriniz. </td>
+    </tr>
   </tbody>
 </table>
