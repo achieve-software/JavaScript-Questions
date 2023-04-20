@@ -158,5 +158,31 @@ Test Verisi: console.log(protect_email("robin_singh@example.com")); "robin...@ex
       <td>Belirli bir string ifadenin tersini bulan fonksiyonu yazınız?
 // console.log(reverseString('hello world')) // output: dlrow olleh</td>
     </tr>
+     <tr>
+      <td>while-example3   </td></td>
+      <td><a href="https://github.com/achieve-software/while-example3">Repo Details</td>
+      <td>JavaScript-while loops İf-Else & ALGHORYTİM   </td>
+      <td>0 dan büyük sayı girildikçe girilen sayıyı toplayan 0 dan küçü sayı girildiğinde döngüden çıkan programı yazınız</td>
+    </tr>
+     <tr>
+      <td> while-example2 </td></td>
+      <td><a href="https://github.com/achieve-software/while-example2">Repo Details</td>
+      <td>JavaScript-while loops İf-Else & ALGHORYTİM   </td>
+      <td>alınan  sayıyı toplayan ve ortalamasını bulan program</td>
+    </tr>
+     <tr>
+      <td>for-mod-13  </td></td>
+      <td><a href="https://github.com/achieve-software/for-mod-13">Repo Details</td>
+      <td>JavaScript-for loops İf-Else & ALGHORYTİM   </td>
+      <td>//1000 ile 2000 arasındaki sayılardan 13 e bölümünden kalan 3 olan sayıları ekrana yazdır...</td>
+    </tr>
+     <tr>
+      <td>map--iteration2 </td></td>
+      <td><a href="https://github.com/achieve-software/map--iteration2" target="_blank">Repo Details</td>
+      <td>JavaScript-Arrays map()  </td>
+      <td>//?-------------- ÖRNEK -------------------
+//? tlPrices dizisindeki rakamlarin Euro ve dolar
+//? karsiliklarini hesaplatarak yeni dizelere kaydediniz</td>
+    </tr>
   </tbody>
 </table>
