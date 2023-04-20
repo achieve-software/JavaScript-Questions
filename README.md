@@ -244,5 +244,32 @@ Test Verisi: console.log(protect_email("robin_singh@example.com")); "robin...@ex
       <td>Functions Arrays Objects</td>
       <td>//filtrelenen ürünleri yazdıran program</td>
     </tr>
+    <tr>
+      <td>fibonacci   </td></td>
+      <td><a href="https://github.com/achieve-software/fibonacci" target="_blank">Repo Details</td>
+      <td>JavaScript-for loops if-else & ALGHORYTİM </td>
+      <td>//* ORNEK: Girilen n. terime kadar Fibonacci sayilarinin toplamini hesaplayarak yazdiran fonksiyonu dongu ile kodlayiniz. FIBONACCI terimleri:  1, 1, 2, 3, 5, 8, 13, 21, ...
+//fibo(6) => 8
+// fibo(n) = fibo(n-1) + fibo(n-2)</td>
+    </tr>
+    <tr>
+      <td>binaryToDecimal   </td></td>
+      <td><a href="https://github.com/achieve-software/binaryToDecimal" target="_blank">Repo Details</td>
+      <td>JavaScript-for loops & ALGHORYTİM </td>
+      <td>İkilik sistemde verilen bir sayıyı onluk sisteme çeviren program</td>
+    </tr>
+    <tr>
+      <td>decimalToBinary  </td></td>
+      <td><a href="https://github.com/achieve-software/decimalToBinary" target="_blank">Repo Details</td>
+      <td>JavaScript-for loops if-else & ALGHORYTİM </td>
+      <td>Onluk sistemde verilen bir sayıyı ikilik sisteme çeviren program</td>
+    </tr>
+    <tr>
+      <td>m-kemmel-sayi  </td></td>
+      <td><a href="https://github.com/achieve-software/m-kemmel-sayi" target="_blank">Repo Details</td>
+      <td>JavaScript-for loops if-else & ALGHORYTİM </td>
+      <td>//Mükemmel sayı, sayılar teorisinde, kendisi hariç pozitif tam bölenlerinin toplamı kendisine eşit olan sayı. Diğer bir ifadeyle, bir mükemmel sayı, bütün pozitif tam bölenlerinin toplamının yarısına eşittir. girilen sayının mükemmel sayı olup olmadığını bulan programı yazınız.</td>
+    </tr>
+    
   </tbody>
 </table>
