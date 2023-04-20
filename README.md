@@ -196,5 +196,29 @@ Test Verisi: console.log(protect_email("robin_singh@example.com")); "robin...@ex
       <td>JavaScript-Arrays forEach() </td>
       <td>1-Dizideki herbir fiyati konsola bastiriniz. 2- prices dizisindekilerin toplamini konsola yazdiriniz. </td>
     </tr>
+     <tr>
+      <td>iteration-with-for-of </td></td>
+      <td><a href="https://github.com/achieve-software/iteration-with-for-of">Repo Details</td>
+      <td>JavaScript-Arrays Iteration with for of</td>
+      <td>findStudentForOf fonksiyonu ile dizi içerisinde herhangi bir ismin olup olmadığını aratan fonksiyon</td>
+    </tr>
+     <tr>
+      <td>iteration-with-for-in </td></td>
+      <td><a href="https://github.com/achieve-software/iteration-with-for-in">Repo Details</td>
+      <td>JavaScript-Arrays Iteration with for in </td>
+      <td>SORU: students dizisinde ogrenci isimleri saklanmaktadir. Ogrencileri aramamizi saglayacak ve aranilan ogrenciden ne kadar sayida bulunuldugunu ana programa dondurecek bir fonksiyonu yaziniz. Eger aranilan isimde bir ogrenci yok ise fonksiyon "ogrenci bulunamadi" dondurulmelidir.</td>
+    </tr>
+     <tr>
+      <td>iteration-with-for-2 </td></td>
+      <td><a href="https://github.com/achieve-software/iteration-with-for-2">Repo Details</td>
+      <td>JavaScript-Arrays Iteration with for loop  </td>
+      <td> arr dizisindeki negatif ve positif sayilari 2 ayri diziye kaydediniz.</td>
+    </tr>
+     <tr>
+      <td>iteration-in-array-for </td></td>
+      <td><a href="https://github.com/achieve-software/iteration-in-array-for">Repo Details</td>
+      <td>JavaScript-Arrays Iteration with for loop  </td>
+      <td>grades'in ortalamasini hesaplayiniz.</td>
+    </tr>
   </tbody>
 </table>
