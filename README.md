@@ -232,5 +232,17 @@ Test Verisi: console.log(protect_email("robin_singh@example.com")); "robin...@ex
       <td>Functions İf-Else </td>
       <td>//Girilen bir pozitif sayının 0 a kadar olan sayıların toplamını kendini yenileyen fonksiyon ile ifadesi</td>
     </tr>
+     <tr>
+      <td>book-finder</td></td>
+      <td><a href="https://github.com/achieve-software/book-finder">Repo Details</td>
+      <td>Functions Arrays Objects</td>
+      <td>//Girilen kitap ismini aratan program</td>
+    </tr>
+    <tr>
+      <td>Array-product-searching</td></td>
+      <td><a href="https://github.com/achieve-software/Array-product-searching">Repo Details</td>
+      <td>Functions Arrays Objects</td>
+      <td>//filtrelenen ürünleri yazdıran program</td>
+    </tr>
   </tbody>
 </table>
