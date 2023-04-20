@@ -220,5 +220,11 @@ Test Verisi: console.log(protect_email("robin_singh@example.com")); "robin...@ex
       <td>JavaScript-Arrays Iteration with for loop  </td>
       <td>grades'in ortalamasini hesaplayiniz.</td>
     </tr>
+    <tr>
+      <td>function-calculator </td></td>
+      <td><a href="https://github.com/achieve-software/function-calculator/blob/main/functionCalculator.js">Repo Details</td>
+      <td>Functions İf-Else </td>
+      <td>hesap makinesi</td>
+    </tr>
   </tbody>
 </table>
