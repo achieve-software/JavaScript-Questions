@@ -180,9 +180,9 @@ Test Verisi: console.log(protect_email("robin_singh@example.com")); "robin...@ex
       <td>map--iteration2 </td></td>
       <td><a href="https://github.com/achieve-software/map--iteration2" target="_blank">Repo Details</td>
       <td>JavaScript-Arrays map()  </td>
-      <td>//?-------------- ÖRNEK -------------------
-//? tlPrices dizisindeki rakamlarin Euro ve dolar
-//? karsiliklarini hesaplatarak yeni dizelere kaydediniz</td>
+      <td>
+ tlPrices dizisindeki rakamlarin Euro ve dolar
+ karsiliklarini hesaplatarak yeni dizelere kaydediniz</td>
     </tr>
   </tbody>
 </table>
