@@ -270,6 +270,41 @@ Test Verisi: console.log(protect_email("robin_singh@example.com")); "robin...@ex
       <td>JavaScript-for loops if-else & ALGHORYTİM </td>
       <td>//Mükemmel sayı, sayılar teorisinde, kendisi hariç pozitif tam bölenlerinin toplamı kendisine eşit olan sayı. Diğer bir ifadeyle, bir mükemmel sayı, bütün pozitif tam bölenlerinin toplamının yarısına eşittir. girilen sayının mükemmel sayı olup olmadığını bulan programı yazınız.</td>
     </tr>
-    
+     <tr>
+      <td>harf-sayisi  </td></td>
+      <td><a href="https://github.com/achieve-software/harf-sayisi" target="_blank">Repo Details</td>
+      <td>JavaScript-for loops if-else Functions Strings & ALGHORYTİM </td>
+      <td>//harf sayısı bulma uygulaması...</td>
+    </tr>
+     <tr>
+      <td>silindirin-hacmi  </td></td>
+      <td><a href="https://github.com/achieve-software/silindirin-hacmi" target="_blank">Repo Details</td>
+      <td>JavaScript-Functions & ALGHORYTİM </td>
+      <td> Silindir Hacmi</td>
+    </tr>
+     <tr>
+      <td>function-in-function </td></td>
+      <td><a href="https://github.com/achieve-software/function-in-function" target="_blank">Repo Details</td>
+      <td>JavaScript-Functions Switch-case & ALGHORYTİM </td>
+      <td>Bir fonksiyon icerisinde baska fonksiyonlar cagrilabilir</td>
+    </tr>
+     <tr>
+      <td>function-findbiggest</td></td>
+      <td><a href="https://github.com/achieve-software/function-findbiggest" target="_blank">Repo Details</td>
+      <td>JavaScript- if-else & ALGHORYTİM </td>
+      <td>3 sayinin en buyugunu bulan fonks.</td>
+    </tr>
+     <tr>
+      <td>function-tekmi-ciftmi </td></td>
+      <td><a href="https://github.com/achieve-software/function-tekmi-ciftmi" target="_blank">Repo Details</td>
+      <td>JavaScript-Functions & ALGHORYTİM </td>
+      <td>Console'dan girilen bir sayinin tek veya cift olddgunu hesaplayan ve sonucu ana programa donduren kodu fonksiyonlar ile yaziniz</td>
+    </tr>
+     <tr>
+      <td>functions-age-calculate  </td></td>
+      <td><a href="https://github.com/achieve-software/functions-age-calculate" target="_blank">Repo Details</td>
+      <td>JavaScript-Functions & ALGHORYTİM </td>
+      <td>Yaş hesaplayan program</td>
+    </tr>
   </tbody>
 </table>
