@@ -306,5 +306,45 @@ Test Verisi: console.log(protect_email("robin_singh@example.com")); "robin...@ex
       <td>JavaScript-Functions & ALGHORYTİM </td>
       <td>Yaş hesaplayan program</td>
     </tr>
+    <tr>
+      <td>basamak-sayisi</td></td>
+      <td><a href="https://github.com/achieve-software/basamak-sayisi">Repo Details</td>
+      <td>JavaScript-while loops & ALGHORYTİM   </td>
+      <td>Console'dan girilen bir sayinin basamak sayisini hesaplayarak console'a
+//bastiran kodu donguler yardimiyle yaziniz.</td>
+    </tr>
+    <tr>
+      <td>while-example  </td></td>
+      <td><a href="https://github.com/achieve-software/while-example">Repo Details</td>
+      <td>JavaScript-while loops & ALGHORYTİM    </td>
+      <td>Kullanicidan 0-100 arasinda bir not isteyen ve girilen not
+//? 0-100'den farkli ise Kullaciniyi uyararak yeniden 0-100 arasinda
+//? not girmeye zorlayan kodu while dongusu ile yaziniz..</td>
+    </tr>
+    <tr>
+      <td>armstrong-number</td></td>
+      <td><a href="https://github.com/achieve-software/armstrong-number">Repo Details</td>
+      <td>JavaScript-for loops İf-Else & ALGHORYTİM   </td>
+      <td>N haneli bir sayının basamaklarının n'inci üstlerinin toplamı, sayının kendisine eşitse, böyle sayılara Armstrong sayı denir.
+//Örneğin 407 sayısını ele alalım. (4^3)+ (0^3)+(7^3) = 64+0+343 = 407 sonucunu verir.</td>
+    </tr>
+    <tr>
+      <td>find-factorial   </td></td>
+      <td><a href="https://github.com/achieve-software/find-factorial">Repo Details</td>
+      <td>JavaScript-for loops & ALGHORYTİM   </td>
+      <td>girilen sayının faktöriyelini bulan program.</td>
+    </tr>
+    <tr>
+      <td>prime-number-program </td></td>
+      <td><a href="https://github.com/achieve-software/prime-number-program">Repo Details</td>
+      <td>JavaScript-for loops İf-Else & ALGHORYTİM   </td>
+      <td>Asal sayı programı.</td>
+    </tr>
+    <tr>
+      <td>multiplication-table  </td></td>
+      <td><a href="https://github.com/achieve-software/multiplication-table">Repo Details</td>
+      <td>JavaScript-for loops & ALGHORYTİM   </td>
+      <td>Çarpım tablosu</td>
+    </tr>
   </tbody>
 </table>
