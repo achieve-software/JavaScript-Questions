@@ -226,5 +226,11 @@ Test Verisi: console.log(protect_email("robin_singh@example.com")); "robin...@ex
       <td>Functions İf-Else </td>
       <td>hesap makinesi</td>
     </tr>
+     <tr>
+      <td>Recrusive</td></td>
+      <td><a href="https://github.com/achieve-software/Recrusive">Repo Details</td>
+      <td>Functions İf-Else </td>
+      <td>//Girilen bir pozitif sayının 0 a kadar olan sayıların toplamını kendini yenileyen fonksiyon ile ifadesi</td>
+    </tr>
   </tbody>
 </table>
