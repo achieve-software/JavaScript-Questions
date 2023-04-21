@@ -407,5 +407,55 @@ Test Verisi: console.log(protect_email("robin_singh@example.com")); "robin...@ex
       <td>JavaScript-Arrays for_in</td>
       <td>//aşağıda verilen iki ayrı dizideki eşleşen indis elemanlarını birleştirerek saklayan ayrı bir uygulamayı for in döngüsü ile yazın</td>
     </tr>
+     <tr>
+    <td>55 </td></td>
+      <td>14Arrays_forEach  </td></td>
+      <td><a href="https://github.com/achieve-software/14Arrays_forEach">Repo Details</td>
+      <td>JavaScript-Arrays forEach()   </td>
+      <td> //?  Dizideki herbir fiyati konsola bastiriniz.</td>
+    </tr>
+     <tr>
+    <td>56 </td></td>
+      <td>15Arrays_foreach  </td></td>
+      <td><a href="https://github.com/achieve-software/15Arrays_foreach">Repo Details</td>
+      <td>JavaScript-Arrays forEach()   </td>
+      <td>//Bir dizideki tüm elemanların ortalamasını hesaplayan bir JavaScript fonksiyonu yazın. Test Verisi: console.log(average([1,2,3,4,5])); 3</td>
+    </tr>
+     <tr>
+    <td>57 </td></td>
+      <td>16Arrays_map  </td></td>
+      <td><a href="https://github.com/achieve-software/16Arrays_map">Repo Details</td>
+      <td> JavaScript-Arrays map()    </td>
+      <td>Some map() examples</td>
+    </tr>
+     <tr>
+    <td>58 </td></td>
+      <td>17Arrays_filter</td></td>
+      <td><a href="https://github.com/achieve-software/17Arrays_filter">Repo Details</td>
+      <td>JavaScript-Arrays filter()   </td>
+      <td>// Maasi 10000'den buyuk olanlari ayri bir diziye saklayalim</td>
+    </tr>
+     <tr>
+    <td>59 </td></td>
+      <td>18Arrays_chaining </td></td>
+      <td><a href="https://github.com/achieve-software/18Arrays_chaining">Repo Details</td>
+      <td>JavaScript-Arrays methods   </td>
+      <td>// Maasi 9000'den az olanlara %10 zam yaparak bu degerleri
+// yeni diziye saklayalim.</td>
+    </tr>
+     <tr>
+    <td>60 </td></td>
+      <td> 19Arrays_reduce  </td></td>
+      <td><a href="https://github.com/achieve-software/19Arrays_reduce">Repo Details</td>
+      <td>JavaScript-Arrays reduce()  </td>
+      <td>//1 aşağıdaki dizi elemanlarının toplamını reduce metodu ile yazdırınız </td>
+    </tr>
+     <tr>
+    <td>61 </td></td>
+      <td> 20Arrays_others  </td></td>
+      <td><a href="https://github.com/achieve-software/20Arrays_others">Repo Details</td>
+      <td>JavaScript-Arrays every() some()  find(), findLast() findIndex()  </td>
+      <td>JavaScript-Arrays other methods </td>
+    </tr>
   </tbody>
 </table>
