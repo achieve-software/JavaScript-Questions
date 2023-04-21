@@ -401,5 +401,11 @@ Test Verisi: console.log(protect_email("robin_singh@example.com")); "robin...@ex
       <td>JavaScript-for loops & ALGHORYTİM   </td>
       <td>Çarpım tablosu</td>
     </tr>
+    <td>54 </td></td>
+      <td>13Arrays_for_in_Iteration  </td></td>
+      <td><a href="https://github.com/achieve-software/13Arrays_for_in_Iteration">Repo Details</td>
+      <td>JavaScript-Arrays for_in</td>
+      <td>//aşağıda verilen iki ayrı dizideki eşleşen indis elemanlarını birleştirerek saklayan ayrı bir uygulamayı for in döngüsü ile yazın</td>
+    </tr>
   </tbody>
 </table>
