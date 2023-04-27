@@ -457,5 +457,26 @@ Test Verisi: console.log(protect_email("robin_singh@example.com")); "robin...@ex
       <td>JavaScript-Arrays every() some()  find(), findLast() findIndex()  </td>
       <td>JavaScript-Arrays other methods </td>
     </tr>
+    <tr>
+    <td>62 </td></td>
+      <td>21StringsALL-LESSON   </td></td>
+      <td><a href="https://github.com/achieve-software/21StringsALL-LESSON">Repo Details</td>
+      <td>JavaScript-Strings  </td>
+      <td>JavaScript-Strings all methods and questions and answers </td>
+    </tr>
+    <tr>
+    <td>63 </td></td>
+      <td> 22-ObjectsALL-LESSON  </td></td>
+      <td><a href="https://github.com/achieve-software/22-ObjectsALL-LESSON">Repo Details</td>
+      <td> JavaScript-Objects  </td>
+      <td> JavaScript-Objects all lesson, questions and answers</td>
+    </tr>
+    <tr>
+    <td>64 </td></td>
+      <td>23-NewOperatorsALL-LESSON </td></td>
+      <td><a href="https://github.com/achieve-software/23-NewOperatorsALL-LESSON">Repo Details</td>
+      <td>JavaScript-New Operators  </td>
+      <td>JavaScript-New Operators(Destructure Objects, Destructure Arrays, Rest(...), Spread(...)) </td>
+    </tr>
   </tbody>
 </table>
