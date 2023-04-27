@@ -528,5 +528,29 @@ search()---replace()---split()---toLowerCase()---toUpperCase()---trim()---starts
       <td>Objects  </td>
       <td>Json questions and answers </td>
     </tr>
+     <td>72 </td></td>
+      <td> 31ObjectDestructuring   </td></td>
+      <td><a href="https://github.com/achieve-software/31ObjectDestructuring">Repo Details</td>
+      <td>Js-New Operators  </td>
+      <td>New Operators Destructuring Objects </td>
+    </tr>
+     <td>73 </td></td>
+      <td> 32ArrayDestructuring  </td></td>
+      <td><a href="https://github.com/achieve-software/32ArrayDestructuring">Repo Details</td>
+      <td>Js-New Operators  </td>
+      <td>New Operators Destructuring Arrays  </td>
+    </tr>
+     <td>74 </td></td>
+      <td> 33Rest-Operator   </td></td>
+      <td><a href="https://github.com/achieve-software/33Rest-Operator">Repo Details</td>
+      <td> Js-New Operators   </td>
+      <td> New Operators-Rest(...) </td>
+    </tr>
+     <td>75 </td></td>
+      <td> 34-Spread-Operator  </td></td>
+      <td><a href="https://github.com/achieve-software/34-Spread-Operator">Repo Details</td>
+      <td>Js-New Operators  </td>
+      <td>  New Operators-Spread(...) </td>
+    </tr>
   </tbody>
 </table>
