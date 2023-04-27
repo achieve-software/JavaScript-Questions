@@ -478,5 +478,27 @@ Test Verisi: console.log(protect_email("robin_singh@example.com")); "robin...@ex
       <td>JavaScript-New Operators  </td>
       <td>JavaScript-New Operators(Destructure Objects, Destructure Arrays, Rest(...), Spread(...)) </td>
     </tr>
+    <tr>
+    <td>65 </td></td>
+      <td>24Strings-Escape-sequences </td></td>
+      <td><a href="https://github.com/achieve-software/24Strings-Escape-sequences">Repo Details</td>
+      <td>JavaScript-Strings </td>
+      <td>JavaScript-Strings-Escape-sequences  </td>
+    </tr>
+    <tr>
+    <td>66 </td></td>
+      <td>25StringMethods  </td></td>
+      <td><a href="https://github.com/achieve-software/25StringMethods">Repo Details</td>
+      <td>JavaScript-New Strings  </td>
+      <td>JavaScript-String Methods---slice()---subString()---concat()---includes()---indexOf()---lastIndexOf()---
+search()---replace()---split()---toLowerCase()---toUpperCase()---trim()---startsWith()---endsWith()  </td>
+    </tr>
+    <tr>
+    <td>67 </td></td>
+      <td> 26String-questions  </td></td>
+      <td><a href="https://github.com/achieve-software/26String-questions">Repo Details</td>
+      <td>JavaScript-Strings-For loops & ALGHORYTİM  </td>
+      <td>JavaScript-Strings all questions and answers </td>
+    </tr>
   </tbody>
 </table>
