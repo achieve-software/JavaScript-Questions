@@ -556,5 +556,33 @@ search()---replace()---split()---toLowerCase()---toUpperCase()---trim()---starts
       <td>Js-New Operators  </td>
       <td>  New Operators-Spread(...) </td>
     </tr>
+       <tr>
+     <td>76 </td></td>
+      <td>35-DOM-Selectors  </td></td>
+      <td><a href="https://github.com/achieve-software/35-DOM-Selectors">Repo Details</td>
+      <td>JavaScript-DOM-Selectors  </td>
+      <td>JavaScript-DOM-Selectors </td>
+    </tr>
+       <tr>
+     <td>77 </td></td>
+      <td>  36-DOM-TraversingDom</td></td>
+      <td><a href="https://github.com/achieve-software/36-DOM-TraversingDom">Repo Details</td>
+      <td>JavaScript-DOM-TraversingDom  </td>
+      <td>DOM-TraversingDom Aşağı-Yukarı-Yatay yönde Traversing.</td>
+    </tr>
+       <tr>
+     <td>78 </td></td>
+      <td>  37-DOM-Create-Node</td></td>
+      <td><a href="https://github.com/achieve-software/37-DOM-Create-Node">Repo Details</td>
+      <td> DOM-Create-Node  </td>
+      <td> DOM-Create-Node.</td>
+    </tr>
+       <tr>
+     <td>79 </td></td>
+      <td> 38-DOM-Events </td></td>
+      <td><a href="https://github.com/achieve-software/38-DOM-Events">Repo Details</td>
+      <td>JavaScript-DOM-Events </td>
+      <td>DOM-Events</td>
+    </tr>
   </tbody>
 </table>
