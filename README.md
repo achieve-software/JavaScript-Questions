@@ -500,5 +500,33 @@ search()---replace()---split()---toLowerCase()---toUpperCase()---trim()---starts
       <td>JavaScript-Strings-For loops & ALGHORYTİM  </td>
       <td>JavaScript-Strings all questions and answers </td>
     </tr>
+     <tr>
+    <td>68 </td></td>
+      <td> 27Objelere-ulas-m  </td></td>
+      <td><a href="https://github.com/achieve-software/27Objelere-ulas-m">Repo Details</td>
+      <td>Objects </td>
+      <td>Objects -.notasyonu ve -[]square bracket notsyonu </td>
+    </tr>
+     <tr>
+    <td>69 </td></td>
+      <td> 28Object-olusturma   </td></td>
+      <td><a href="https://github.com/achieve-software/28Object-olusturma">Repo Details</td>
+      <td>Objects  </td>
+      <td>3 way of creating objects </td>
+    </tr>
+     <tr>
+    <td>70 </td></td>
+      <td> 29Objects-iteration  </td></td>
+      <td><a href="https://github.com/achieve-software/29Objects-iteration">Repo Details</td>
+      <td>Objects</td>
+      <td>Objects iteration with loops and methods</td>
+    </tr>
+     <tr>
+    <td>71 </td></td>
+      <td> 30Objects-Json  </td></td>
+      <td><a href="https://github.com/achieve-software/30Objects-Json">Repo Details</td>
+      <td>Objects  </td>
+      <td>Json questions and answers </td>
+    </tr>
   </tbody>
 </table>
