@@ -591,5 +591,19 @@ search()---replace()---split()---toLowerCase()---toUpperCase()---trim()---starts
       <td>Html-Css-Js-sass </td>
       <td>transition-transform-animation-keyframes-sass,mixins-extends</td>
     </tr>
+          <tr>
+     <td>81 </td></td>
+      <td>oop-Lesson </td></td>
+      <td><a href="https://github.com/achieve-software/48-oop-ders">Repo Details</td>
+      <td>Js-Oop </td>
+      <td>Js-Oop</td>
+    </tr>
+           <tr>
+     <td>82 </td></td>
+      <td>Js-modul </td></td>
+      <td><a href="https://github.com/achieve-software/49-modul">Repo Details</td>
+      <td>Js-modul </td>
+      <td>Js-modul</td>
+    </tr>
   </tbody>
 </table>
