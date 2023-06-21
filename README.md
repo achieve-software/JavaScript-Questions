@@ -1,4 +1,4 @@
-# JavaScript-Questions
+# JavaScript-Lessons
 <table class="table">
   <thead>
     <tr>
