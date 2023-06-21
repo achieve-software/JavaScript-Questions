@@ -3,7 +3,7 @@
   <thead>
     <tr>
      <th align="left" width="3%">No</th>
-      <th align="left" width="14%">Project Name</th>
+      <th align="left" width="14%">Lesson Name</th>
       <th align="left" width="14%">Repo Link</th>
       <th align="left" width="14%">Subject</th>
       <th align="center">Explanation</th>
