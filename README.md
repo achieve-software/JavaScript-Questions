@@ -584,5 +584,12 @@ search()---replace()---split()---toLowerCase()---toUpperCase()---trim()---starts
       <td>JavaScript-DOM-Events </td>
       <td>DOM-Events</td>
     </tr>
+         <tr>
+     <td>80 </td></td>
+      <td> Css Works </td></td>
+      <td><a href="https://github.com/achieve-software/css--al-smalar-">Repo Details</td>
+      <td>Html-Css-Js-sass </td>
+      <td>transition-transform-animation-keyframes-sass,mixins-extends</td>
+    </tr>
   </tbody>
 </table>
